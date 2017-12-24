@@ -1,0 +1,12 @@
+NAME : Justin Chang
+SID# : 504732893
+
+Identify with whom you've collaborated and in what manner, if any :
+
+Haoyu Yun (discussed a bug about illegal feedback), Jingbin Huang (discussed how to use constraints file instead, helped fix a typo in a constraint file, and discussed refresh counters for lab 2 (but I don’t think we are turning that in since it says we only need to turn in lab 3, the final product, so I attached the raw data files that I used to get working the original morse decoder along with the actual final verilog file (just 1, called morseWorks.v) that I mainly used with the only .xdc file in the zip file.
+
+Identify which online tools you've used, if any : 
+(for clock) https://forum.digilentinc.com/topic/681-creating-a-25-mhz-clock-on-the-basys-3/
+
+(for multiple 4 segment display usage refresh counter): http://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html 
+
